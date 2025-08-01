@@ -2,7 +2,7 @@
 
 A fully interactive HR Analytics Dashboard built using Power BI, designed to uncover key workforce insights from structured HR data.
 
-![Dashboard Screenshot](link-to-your-dashboard-image.png)
+![Dashboard Screenshot](https://github.com/shrivardhanBangale16/HR-Analytics-Dashboard/blob/a1ebd145ee1c1cbdb4e2222912d30fc64c18cbb7/Main%20Dashboard.png)
 
 ---
 
