@@ -55,15 +55,6 @@ This project transforms a raw HR dataset of **1,470 employees** and **41 variabl
 | Excel      | Dataset Preprocessing        |
 | JSON Theme | Custom UI Theme Integration  |
 
----
-
-## 📸 Screenshots
-
-> Replace with image links or use GitHub's upload option
-
-- ![Executive Summary](link)
-- ![Attrition Analysis](link)
-- ![Compensation Insights](link)
 
 ---
 
